@@ -1,1 +1,1 @@
-module.exports = exports = require('./src/openPathAsync');
+module.exports = exports = require('./src/openPath');
